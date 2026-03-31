@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Blog",
+		"description": "蓑衣的个人博客，记录前后端开发、探索、笔记。",
+		"username": "SUOYI"
 	},
 	"theme": {
 		"colorBrand": "#4963B7",
@@ -29,9 +29,13 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "e4c06ffcb62ea8ae",
+			"url": "/images/art/e4c06ffcb62ea8ae.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "e4c06ffcb62ea8ae",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -43,26 +47,26 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/cuozhe",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
+			"type": "link",
 			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"label": "Linuxdo",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "3269818751@qq.com",
 			"label": "",
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
@@ -71,7 +75,7 @@
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
-		"text": "",
+		"text": "陇ICP备2024014723号",
 		"link": ""
 	}
 }
