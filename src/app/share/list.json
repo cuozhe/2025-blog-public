@@ -10,16 +10,6 @@
 		"stars": 4
 	},
 	{
-		"name": "TinyPNG",
-		"url": "https://tinypng.com/",
-		"logo": "https://tinypng.com/static/images/george-anim/large_george_x2.webp",
-		"description": "国际上比较出名的压缩图片工具，过去的书本中知晓的这个网站，但是有图片大小限制，也有数量限制。挺好的压缩图片替代品。",
-		"tags": [
-			"图片"
-		],
-		"stars": 3
-	},
-	{
 		"name": "removebg",
 		"url": "https://www.remove.bg/zh",
 		"logo": "/images/share/859bfb2ef1c6a503.svg",
@@ -94,16 +84,6 @@
 		"stars": 4
 	},
 	{
-		"name": "Ai lman",
-		"url": "https://aliimam.in/docs/backgrounds/shader-rgb",
-		"logo": "https://aliimam.in/_next/image?url=%2Fai-logo-black.png&w=128&q=75",
-		"description": "类 Magic UI，但是感觉差点意思。可作为看完 Magic 意犹未尽时闲看。",
-		"tags": [
-			"组件"
-		],
-		"stars": 3
-	},
-	{
 		"name": "Awwwards",
 		"url": "https://www.awwwards.com/",
 		"logo": "https://assets.awwwards.com/assets/images/favicon.svg",
@@ -138,36 +118,6 @@
 		"logo": "https://www.igloo.inc/assets/favicon32-af94112f.png",
 		"url": "https://www.igloo.inc/",
 		"description": "abeto 作品，非常酷炫",
-		"tags": [
-			"3D"
-		],
-		"stars": 4
-	},
-	{
-		"name": "abeto 官网",
-		"logo": "https://abeto.co/assets/favicon32-11fb90a3.png",
-		"url": "https://abeto.co/",
-		"description": "无限绽开的花，飘荡的树叶，复古风格化",
-		"tags": [
-			"3D"
-		],
-		"stars": 4
-	},
-	{
-		"name": "Messenger",
-		"logo": "https://messenger.abeto.co/assets/favicon32-BC0QIL61.png",
-		"url": "https://messenger.abeto.co/",
-		"description": "abeto 作品，卡通送信员在地球小镇上奔跑，联机在线，可换装",
-		"tags": [
-			"3D"
-		],
-		"stars": 4
-	},
-	{
-		"name": "Summer Afternoon",
-		"logo": "https://summer-afternoon.vlucendo.com/assets/favicon32-e817b074.png",
-		"url": "https://summer-afternoon.vlucendo.com/",
-		"description": "夏日午后，小男孩在乡村公路上上游玩",
 		"tags": [
 			"3D"
 		],
@@ -220,16 +170,6 @@
 		"description": "无限压缩，快且方便，可以直接对比效果",
 		"tags": [
 			"图片"
-		],
-		"stars": 3
-	},
-	{
-		"name": "WoraWork",
-		"logo": "https://worawork.vercel.app/Icons/worawork.webp",
-		"url": "https://worawork.vercel.app/",
-		"description": "方格世界的 Web3D，场景渲染非常棒，非常值得体验",
-		"tags": [
-			"3D"
 		],
 		"stars": 3
 	}
